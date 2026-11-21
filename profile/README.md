@@ -11,6 +11,6 @@ Bu organizasyon, [YouTube kanalımdaki](https://www.youtube.com/@hasancelikdev) 
 | Doğru Kullanım | Skill, MCP, ajan mimarisi, test ve güvenlik |
 | Sektör Notu | 30 yıllık bir yazılımcının gözünden sektör ve kariyer |
 
-Her videonun açıklamasındaki ilk bağlantı, o videonun [kaynaklar](https://github.com/hasancelik-dev/kaynaklar) içindeki klasörüne gelir.
+Her videonun açıklamasındaki ilk bağlantı, o videonun [resources](https://github.com/hasancelik-dev/resources) reposundaki klasörüne gelir.
 
 İletişim: youtube@hasancelik.com · [hasancelik.com](https://hasancelik.com)
